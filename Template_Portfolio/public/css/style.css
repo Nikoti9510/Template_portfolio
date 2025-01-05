@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height:100vh;
+    min-height:100svh;
+    margin: 0;
+}
+body > * {
+    padding: 2rem;
+}
+main {
+    background-color: aqua;
+}
+footer {
+    background-color: beige;
+    text-align: center;
+    margin-top:auto;
+}
