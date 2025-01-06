@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'fr'
 title = 'Template de base'
+enableEmoji = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
