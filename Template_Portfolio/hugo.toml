@@ -1,7 +1,17 @@
 baseURL = 'https://example.org/'
-languageCode = 'fr'
 title = 'Template de base'
 enableEmoji = true
+defaultContentLanguage = 'fr'
+
+[languages]
+  [languages.fr]
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+  [languages.en]
+    languageCode = 'en-EN'
+    languageDirection = 'ltr'
+    languageName = 'English'
 
 [markup]
   [markup.goldmark]
