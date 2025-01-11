@@ -25,6 +25,13 @@ a.btn {
     color: black;
     margin-block-start: 1rem;
 }
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 0;
+}
 footer {
     background-color: whitesmoke;
     margin-top: auto;

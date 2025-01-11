@@ -1,8 +1,25 @@
 baseURL = 'https://example.org/'
 title = 'Template de base'
 enableEmoji = true
-defaultContentLanguage = 'fr'
 
+[menus]
+  [[menus.header]]
+    name = 'Accueil'
+    url = '/'
+    weight = 10
+  [[menus.header]]
+    name = 'Contact'
+    url = '/contact'
+    weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+
+defaultContentLanguage = 'fr'
 [languages]
   [languages.fr]
     languageCode = 'fr-FR'
@@ -12,10 +29,3 @@ defaultContentLanguage = 'fr'
     languageCode = 'en-EN'
     languageDirection = 'ltr'
     languageName = 'English'
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.parser]
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
