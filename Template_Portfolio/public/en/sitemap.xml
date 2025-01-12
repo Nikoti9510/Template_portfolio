@@ -28,6 +28,12 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/projets/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projets/projet-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projets/projet-1/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"

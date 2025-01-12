@@ -11,6 +11,10 @@ enableEmoji = true
     name = 'Contact'
     url = '/contact'
     weight = 20
+  [[menus.header]]
+    name = 'Mes projets'
+    url = '/projets'
+    weight = 30
 
 [markup]
   [markup.goldmark]
