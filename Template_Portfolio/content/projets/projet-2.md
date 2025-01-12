@@ -1,6 +1,7 @@
 ---
 title: "Mon deuxième projet"
 type: "projets"
+description : "Une description courte de mon projet."
 --- 
 
 Suspendisse consequat sem vitae mauris gravida, quis rutrum urna commodo. Cras et risus diam. Suspendisse sit amet neque justo. Pellentesque egestas dapibus velit. Mauris in tellus eleifend, facilisis eros non, rutrum risus. Fusce vitae pellentesque purus. Morbi sed justo est. Sed congue, augue faucibus condimentum tempor, mauris sapien feugiat risus, sit amet semper libero ex eget mauris.

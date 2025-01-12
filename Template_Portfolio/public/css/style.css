@@ -10,10 +10,10 @@ body {
 body > * {
     padding: 2rem;
     text-align: center;   
-}
+} 
 main {
     margin: 0 auto;
-}
+} 
 .btn a, 
 a.btn {
     padding: 1rem 2rem;
@@ -35,6 +35,14 @@ header nav ul {
 article {
     max-width: 70ch;
     text-align: left;
+}
+.preview {
+    margin-block: 4rem;
+}
+.preview article {
+    padding: 2rem;
+    background: whitesmoke;
+    border-radius: 8px;
 }
 footer {
     background-color: whitesmoke;
