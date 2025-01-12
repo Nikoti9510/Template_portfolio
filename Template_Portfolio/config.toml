@@ -1,6 +1,7 @@
 baseURL = 'https://hugo-template-portfolio.app/'
 title = 'Template de base'
 enableEmoji = true
+timeout = '10m' 
 
 [menus]
   [[menus.header]]
