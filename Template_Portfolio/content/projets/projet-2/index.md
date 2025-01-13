@@ -1,6 +1,6 @@
 ---
 title: Mon deuxième projet
-date: 
+date: 2025-01-13T18:36:00
 description: Une description courte de mon projet.
 type: projets
 ---
