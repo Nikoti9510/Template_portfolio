@@ -4,6 +4,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: Template_Portfolio/static/media
 public_folder: /media
+create: true
 
 collections:
   - name: 'Projets'
