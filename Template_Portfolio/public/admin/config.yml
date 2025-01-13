@@ -1,12 +1,13 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Nikoti9510/Template_portfolio
   branch: main # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
 collections:
   - name: 'projets'
     label: 'Projets'
-    folder: 'content/projets'
+    folder: 'projets'
     create: true
     slug: '{{day}}-{{month}}-{{year}}-{{slug}}'
     editor:
