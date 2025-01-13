@@ -1,8 +1,8 @@
 ---
-title: Mon deuxième projet
+title: '"Mon deuxième projet"'
 date: 2025-01-13T15:40:00
-description: Une description courte de mon projet.
-type: projets
+description: '"Une description courte de mon projet."'
+type: '"projets"'
 ---
 Suspendisse consequat sem vitae mauris gravida, quis rutrum urna commodo. Cras et risus diam. Suspendisse sit amet neque justo. Pellentesque egestas dapibus velit. Mauris in tellus eleifend, facilisis eros non, rutrum risus. Fusce vitae pellentesque purus. Morbi sed justo est. Sed congue, augue faucibus condimentum tempor, mauris sapien feugiat risus, sit amet semper libero ex eget mauris.
 
