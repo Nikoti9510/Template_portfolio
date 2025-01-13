@@ -1,6 +1,6 @@
 ---
 title: "Mon deuxième projet"
-date: "2025-01-13T15:40:00"
+date: ""
 description: "Une description courte de mon projet."
 type: "projets"
 ---

@@ -1,6 +1,8 @@
 baseURL = 'https://hugo-template-portfolio.app/'
 title = 'Template de base'
 enableEmoji = true
+[params]
+    dateFormat = "02 Jan 2006"
 
 [menus]
   [[menus.header]]
