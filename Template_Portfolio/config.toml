@@ -4,6 +4,12 @@ enableEmoji = true
 [params]
     dateFormat = "02 Jan 2006"
 
+[frontmatter]
+  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  expiryDate = ['expirydate', 'unpublishdate']
+  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+  publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
 [menus]
   [[menus.header]]
     name = 'Accueil'
@@ -24,14 +30,3 @@ enableEmoji = true
       [markup.goldmark.parser.attribute]
         block = true
         title = true
-
-defaultContentLanguage = 'fr'
-[languages]
-  [languages.fr]
-    languageCode = 'fr-FR'
-    languageDirection = 'ltr'
-    languageName = 'Français'
-  [languages.en]
-    languageCode = 'en-EN'
-    languageDirection = 'ltr'
-    languageName = 'English'
