@@ -3,6 +3,12 @@ title = 'Template'
 enableEmoji = true
 defaultContentLanguage = 'fr'
 
+[params]
+    dateFormat = "02 Jan 2006"
+
+[frontmatter]
+  date = ['myDate', ':default']
+
 [menus]
   [[menus.header]]
     name = 'Accueil'
