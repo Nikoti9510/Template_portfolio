@@ -1,6 +1,6 @@
 ---
 title: "Mon premier projet"
-date: ""
+date: 
 description: "Une description courte de mon projet."
 type: "projets"
 ---

@@ -3,20 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-13T16:27:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projets/</loc>
-    <lastmod>2025-01-13T16:27:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projets/projet-2/</loc>
-    <lastmod>2025-01-13T16:18:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/projets/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projets/projet-2/</loc>
+  </url><url>
     <loc>http://localhost:1313/projets/projet-1/</loc>
   </url><url>
+    <loc>http://localhost:1313/projets/13-01-2025-re-test/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projets/13-01-2025-test/</loc>
   </url>
 </urlset>
