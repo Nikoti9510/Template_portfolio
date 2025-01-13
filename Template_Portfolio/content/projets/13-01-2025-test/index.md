@@ -1,6 +1,6 @@
 ---
 title: test
-date: 
+lastmod: 
 description: test
 type: projets
 ---

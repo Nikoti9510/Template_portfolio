@@ -1,6 +1,6 @@
 ---
 title: re test
-date: 2025-01-13T20:17:00
+lastmod: 2023-10-19T00:40:04-07:00
 description: encore un test
 type: projets
 ---
