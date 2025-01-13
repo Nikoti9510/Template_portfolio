@@ -2,12 +2,12 @@ backend:
   name: github
   repo: Nikoti9510/Template_portfolio
   branch: main # Branch to update (optional; defaults to master)
-media_folder: static/imgs
+media_folder: template_portfolio/static/imgs
 public_folder: /imgs
 collections:
   - name: 'projets'
     label: 'Projets'
-    folder: 'public/projets'
+    folder: 'template_portfolio/public/projets'
     create: true
     slug: '{{day}}-{{month}}-{{year}}-{{slug}}'
     editor:
