@@ -5,9 +5,16 @@
     <link>http://localhost:1313/projets/</link>
     <description>Recent content in Mes projets on Template</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2025 16:18:00 +0000</lastBuildDate>
+    <language>fr</language>
+    <lastBuildDate>Mon, 13 Jan 2025 16:27:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/projets/13-01-2025-test/</link>
+      <pubDate>Mon, 13 Jan 2025 16:27:00 +0000</pubDate>
+      <guid>http://localhost:1313/projets/13-01-2025-test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;&#xA;&lt;p&gt;![](acces oaut setting.png)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mon deuxième projet</title>
       <link>http://localhost:1313/projets/projet-2/</link>
