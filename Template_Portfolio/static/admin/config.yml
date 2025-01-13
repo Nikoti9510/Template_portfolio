@@ -5,6 +5,7 @@ backend:
 media_folder: Template_Portfolio/static/media
 public_folder: /media
 create: true
+extension: toml
 
 collections:
   - name: 'Projets'
