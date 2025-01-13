@@ -8,7 +8,7 @@ collections:
   - name: 'projets'
     label: 'Projets'
     folder: 'projets'
-    create: true
+    # create: true
     slug: '{{day}}-{{month}}-{{year}}-{{slug}}'
     editor:
       preview: false
