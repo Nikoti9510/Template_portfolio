@@ -1,6 +1,6 @@
 ---
 title: Mon premier projet
-lastmod:
+date: 2025-01-13T10:29:00
 description: Une description courte de mon projet.
 type: projets
 ---
