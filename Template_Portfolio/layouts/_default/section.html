@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{ .Content }}
-    {{ range where .Site.RegularPages "Type" "projets" }}
+    {{ range where .Site.RegularPages.ByTitle "Type" "projets" }}
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ end }}
 {{ end }}
