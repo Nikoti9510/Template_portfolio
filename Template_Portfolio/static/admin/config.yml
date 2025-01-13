@@ -2,8 +2,8 @@ backend:
   name: github
   repo: Nikoti9510/Template_portfolio
   branch: main # Branch to update (optional; defaults to master)
-media_folder: Template_Portfolio/static/imgs
-public_folder: /imgs
+media_folder: Template_Portfolio/static/media
+public_folder: /media
 
 collections:
   - name: 'Projets'
