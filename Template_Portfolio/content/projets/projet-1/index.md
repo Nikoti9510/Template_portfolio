@@ -1,6 +1,6 @@
 ---
 title: Mon premier projet
-date: 2025-01-13T18:36:00
+date: 
 description: Une description courte de mon projet.
 type: projets
 ---

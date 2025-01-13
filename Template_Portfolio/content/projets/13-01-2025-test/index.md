@@ -1,6 +1,6 @@
 ---
 title: test
-date: 2025-01-13T18:36:00
+date: 
 description: test
 type: projets
 ---
