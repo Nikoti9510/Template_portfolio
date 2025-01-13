@@ -1,5 +1,5 @@
 ---
-title: Mon premier projet test
+title: Mon premier projet
 date: 2025-01-13T15:19:00
 description: Une description courte de mon projet.
 type: projets
