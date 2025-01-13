@@ -6,6 +6,7 @@
     <description>Recent content in Mes projets on Template</description>
     <generator>Hugo</generator>
     <language>fr</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon deuxième projet</title>
@@ -20,13 +21,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projets/projet-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis risus ut magna fermentum, sed porttitor justo scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus vel varius libero. Suspendisse sed eros nunc. Mauris suscipit risus luctus nisi gravida, ac consequat ipsum efficitur. Nam feugiat lectus mauris, at pretium risus interdum nec. Nullam a ultricies diam. Duis tempor volutpat purus, quis condimentum mi elementum sit amet. Aenean et felis quis tellus tempus pellentesque nec et lacus. Etiam lobortis, quam in luctus congue, neque eros malesuada turpis, a egestas felis magna vitae lectus. In arcu orci, malesuada quis condimentum eu, posuere vel mi. Nullam dictum aliquam augue, nec dignissim diam porttitor quis. Fusce interdum sem dignissim augue tincidunt volutpat. Suspendisse potenti. Donec tempor accumsan augue vestibulum finibus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>re test</title>
-      <link>http://localhost:1313/projets/13-01-2025-re-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projets/13-01-2025-re-test/</guid>
-      <description>&lt;p&gt;aller la c&amp;rsquo;es bon&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;retest&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>test</title>
