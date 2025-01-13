@@ -1,5 +1,7 @@
 ---
 title: "Mon premier projet"
+Publish Date:
+Description: "Une description courte de mon projet."
 type: "projets"
 --- 
 
