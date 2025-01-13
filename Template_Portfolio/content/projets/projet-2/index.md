@@ -1,6 +1,6 @@
 ---
 title: Mon deuxième projet
-lastmod:
+date: 2025-01-13T20:29:00
 description: Une description courte de mon projet.
 type: projets
 ---
