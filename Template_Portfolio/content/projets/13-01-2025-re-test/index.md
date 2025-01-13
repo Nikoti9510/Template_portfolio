@@ -1,6 +1,6 @@
 ---
 title: re test
-date: 
+date: 2025-01-13T18:29:00
 description: encore un test
 type: projets
 ---
