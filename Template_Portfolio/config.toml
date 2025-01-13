@@ -7,10 +7,7 @@ defaultContentLanguage = 'fr'
     dateFormat = "02 Jan 2006"
 
 [frontmatter]
-  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
-  expiryDate = ['expirydate', 'unpublishdate']
-  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
-  publishDate = ['publishdate', 'pubdate', 'published', 'date']
+  date = ['myDate', ':default']
 
 [menus]
   [[menus.header]]

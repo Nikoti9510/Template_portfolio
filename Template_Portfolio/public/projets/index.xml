@@ -8,16 +8,6 @@
     <language>fr</language>
     <atom:link href="http://localhost:1313/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<<<<<<< Updated upstream
-=======
-      <title>test</title>
-      <link>http://localhost:1313/projets/13-01-2025-test/</link>
-      <pubDate>Mon, 13 Jan 2025 16:27:00 +0000</pubDate>
-      <guid>http://localhost:1313/projets/13-01-2025-test/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;&#xA;&lt;p&gt;![test](acces oaut setting.png &amp;ldquo;test&amp;rdquo;)&lt;/p&gt;</description>
-    </item>
-    <item>
->>>>>>> Stashed changes
       <title>Mon deuxième projet</title>
       <link>http://localhost:1313/projets/projet-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,7 +28,6 @@
       <guid>http://localhost:1313/projets/13-01-2025-re-test/</guid>
       <description>&lt;p&gt;aller la c&amp;rsquo;es bon&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;retest&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-<<<<<<< Updated upstream
     <item>
       <title>test</title>
       <link>http://localhost:1313/projets/13-01-2025-test/</link>
@@ -46,7 +35,5 @@
       <guid>http://localhost:1313/projets/13-01-2025-test/</guid>
       <description>&lt;p&gt;test&lt;/p&gt;&#xA;&lt;p&gt;![test](acces oaut setting.png &amp;ldquo;test&amp;rdquo;)&lt;/p&gt;</description>
     </item>
-=======
->>>>>>> Stashed changes
   </channel>
 </rss>
